@@ -6,7 +6,7 @@ public class PatternProgram1 {
 		// TODO Auto-generated method stub
 PatternProgram1 obj=new PatternProgram1();
 obj.saravanan();
-obj.alphabets_t();
+obj.alphabet_t();
 obj.alphabet_m();
 	}
 private void alphabet_m() {
